@@ -1,9 +1,9 @@
-# Toggle Bots with AI Dialogues using Ollama API in Houdini Server Framework
+# Bots with AI Dialogues using Ollama API in Houdini Server Framework
 
 A continuation of **https://github.com/brosquinha/houdini-bot-plugin**
 
-![GIF](https://github.com/Walinski/Bots-2.0/blob/main/Rockhopper.gif?raw=true)
-![GIF](https://github.com/Walinski/Bots-2.0/blob/main/MigratorGreeting.gif?raw=true)
+![GIF](https://github.com/Gameboard-dev/Bots/blob/main/Rockhopper.gif)
+
 ## Features
 
 1. **Spawning (Mascots/) Bots**
@@ -118,7 +118,11 @@ This configuration optimizes Ollama for GPU-accelerated inference while providin
 3. https://github.com/rolfhelder/ollama-docker-compose/blob/main/docker-compose.yaml
 4. https://secretdatascientist.com/ollama-cheatsheet/
 
-## Planned Improvements
-1. Trigger emojis and actions (dance, wave) where appropriate within conversations
-2. Random assortments of igloo furniture to simulate igloo designs
-3. Additional contexts added to the API message (i.e., ninja status, room name)
+## Planned Features
+1. Emojis and actions (dance, wave) where appropriate in conversations
+2. Procedurally generated genre appropriate igloos and igloo layouts
+3. Additional contexts added to the API message (i.e., ninja status, room name) for more appropriate responses
+4. Addition of llama 3 Guard and better censoring capabilities
+
+## Disclosure
+This plugin is intended for offline use on `localhost` and does not require an internet connection. I am not responsible for any misuse or manipulation of AI responses.
