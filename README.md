@@ -1,4 +1,4 @@
-# Bots with AI Dialogues using Ollama API in Houdini Server Framework
+# Bots with AI Dialogues using Ollama API for the Houdini Server Framework
 
 A continuation of **https://github.com/brosquinha/houdini-bot-plugin**
 
