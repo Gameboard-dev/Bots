@@ -123,6 +123,7 @@ This configuration optimizes Ollama for GPU-accelerated inference while providin
 2. Procedurally generated genre appropriate igloos and igloo layouts
 3. Additional contexts added to the API message (i.e., ninja status, room name) for more appropriate responses
 4. Addition of llama 3 Guard and better censoring capabilities
+5. Integration with all minigames - card jitsu, find four, manacula, sled racing
 
 ## Disclosure
 This plugin is intended for offline use on `localhost` and does not require an internet connection. I am not responsible for any misuse or manipulation of AI responses.
